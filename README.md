@@ -2,31 +2,6 @@
 The default repo for Papercuts
 
 
-#### 2. Personalize
-
-**Release File**
-
-Edit `Release` file. Modify the items pointed by `<--`
-
-    Origin: Reposi3  <--
-    Label: Reposi3   <--
-    Suite: stable
-    Version: 1.0
-    Codename: ios
-    Architectures: iphoneos-arm
-    Components: main
-    Description: Reposi3 - a cydia repo template  <--
-
-**Branding**
-
-Open `index.html` and look at lines 18 and 19.
-Change line 18 into your own **brand** and line 19 to have your own URL.
-Line2 27-44 contains the list of featured packages.
-You can edit those too or remove them totally.
-
-Replace CydiaIcon.png.
-
-
 **Page Footers**
 
 This data are the links that appear at the bottom of every depication. The data is stored in `repo.xml` at the root folder of your repo.
