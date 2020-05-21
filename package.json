@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "The default repo for Papercuts",
+  "main": "index.js",
+  "dependencies": {
+    "local-web-server": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"sh start.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
