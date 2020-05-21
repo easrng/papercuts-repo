@@ -12,7 +12,7 @@
   {
     "id": "com.mikebeas.updatekit",
     "version": "1.0.0",
-    "maintainer": "easrng <easrng@gmail.com>",
+    "maintainer": "MikeBeas <easrng@gmail.com>",
     "depends": ["com.mikebeas.updatekit"],
     "description": "This is a sample shortcut.",
     "name": "Old Package",
