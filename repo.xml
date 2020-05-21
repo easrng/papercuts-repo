@@ -1,9 +1,0 @@
-<repo>
-	<footerlinks>
-		<link>
-			<name>Add me on Discord</name>
-			<url>javascript:prompt("My Discord username is","eaic#2832");location.href="https://discord.com/channels/@me"</url>
-			<iconclass>fa fa-commenting</iconclass>
-		</link>
-	</footerlinks>
-</repo>

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "com.example.",
+    "version": "1.0.0",
+    "maintainer": "easrng <easrng@gmail.com>",
+    "depends": [],
+    "description": "This is a sample old package. Firmware should be lower than 7.0",
+    "name": "Old Package",
+    "author": "Reposi3 <reposithree@gmail.com>",
+    "depiction": "https://example.com"
+  }
+]
