@@ -23,12 +23,12 @@
       "link": "https://www.mikebeas.com/"
     },
     "depends": ["com.mikebeas.updatekit"],
-    "description": "This is a sample shortcut.",
+    "description": "UpdateKit is a complete update delivery system for iOS Shortcuts.",
     "name": "UpdateKit",
     "author": {
       "name": "Mike Beasly",
       "link": "https://www.mikebeas.com/"
     },
-    "depiction": ""
+    "depiction": "https://papercuts-repo.glitch.me/depiction/updatekit.html"
   }
 ]
