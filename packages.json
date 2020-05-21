@@ -1,12 +1,22 @@
 [
   {
-    "id": "com.example.",
+    "id": "com.example.shortcut",
     "version": "1.0.0",
     "maintainer": "easrng <easrng@gmail.com>",
-    "depends": [],
-    "description": "This is a sample old package. Firmware should be lower than 7.0",
+    "depends": ["com.mikebeas.updatekit"],
+    "description": "This is a sample shortcut.",
     "name": "Old Package",
-    "author": "Reposi3 <reposithree@gmail.com>",
+    "author": "easrng <easrng@gmail.com>",
+    "depiction": "https://example.com"
+  },
+  {
+    "id": "com.mikebeas.updatekit",
+    "version": "1.0.0",
+    "maintainer": "easrng <easrng@gmail.com>",
+    "depends": ["com.mikebeas.updatekit"],
+    "description": "This is a sample shortcut.",
+    "name": "Old Package",
+    "author": "easrng <easrng@gmail.com>",
     "depiction": "https://example.com"
   }
 ]
