@@ -3,36 +3,38 @@
     "id": "com.mikebeas.updatekit",
     "version": "7.2",
     "maintainer": {
-      "name": "Mike Beasly",
+      "name": "Mike Beasley",
       "link": "https://www.mikebeas.com/"
     },
     "depends": ["com.mikebeas.updatekit"],
     "description": "UpdateKit is a complete update delivery system for iOS Shortcuts.",
     "name": "UpdateKit",
     "author": {
-      "name": "Mike Beasly",
+      "name": "Mike Beasley",
       "link": "https://www.mikebeas.com/"
     },
     "depiction": "https://papercuts-repo.glitch.me/depiction/updatekit.html",
     "arch": "ios13",
-    "link": "https://www.icloud.com/shortcuts/93ad50713a954a1197dda7f886f853d6"
+    "link": "https://www.icloud.com/shortcuts/93ad50713a954a1197dda7f886f853d6",
+    "icon": "https://cdn.glitch.com/5fbc1795-66c8-4644-a8fd-560dad954b67%2Fuk.png?v=1590089590726"
   },
   {
     "id": "com.mikebeas.updatekit",
     "version": "5.0.1",
     "maintainer": {
-      "name": "Mike Beasly",
+      "name": "Mike Beasley",
       "link": "https://www.mikebeas.com/"
     },
     "depends": ["com.mikebeas.updatekit"],
     "description": "UpdateKit is a complete update delivery system for iOS Shortcuts.",
     "name": "UpdateKit",
     "author": {
-      "name": "Mike Beasly",
+      "name": "Mike Beasley",
       "link": "https://www.mikebeas.com/"
     },
     "depiction": "https://papercuts-repo.glitch.me/depiction/updatekit.html",
     "arch": "ios12",
-    "link": "https://www.icloud.com/shortcuts/0d78a4b7ffee4bafafdc1fbec4e873a1"
+    "link": "https://www.icloud.com/shortcuts/0d78a4b7ffee4bafafdc1fbec4e873a1",
+    "icon": "https://cdn.glitch.com/5fbc1795-66c8-4644-a8fd-560dad954b67%2Fuk.png?v=1590089590726"
   }
 ]
