@@ -1,23 +1,7 @@
 [
   {
-    "id": "com.example.shortcut",
-    "version": "1.0.0",
-    "maintainer": {
-      "name": "easrng",
-      "link": "mailto:easrng@gmail.com"
-    },
-    "depends": ["com.mikebeas.updatekit"],
-    "description": "This is a sample shortcut.",
-    "name": "Old Package",
-    "author": {
-      "name": "easrng",
-      "link": "mailto:easrng@gmail.com"
-    },
-    "depiction": "https://example.com"
-  },
-  {
     "id": "com.mikebeas.updatekit",
-    "version": "1.0.0",
+    "version": "7.2",
     "maintainer": {
       "name": "Mike Beasly",
       "link": "https://www.mikebeas.com/"
@@ -29,6 +13,26 @@
       "name": "Mike Beasly",
       "link": "https://www.mikebeas.com/"
     },
-    "depiction": "https://papercuts-repo.glitch.me/depiction/updatekit.html"
+    "depiction": "https://papercuts-repo.glitch.me/depiction/updatekit.html",
+    "arch": "ios13",
+    "link": "https://www.icloud.com/shortcuts/93ad50713a954a1197dda7f886f853d6"
+  },
+  {
+    "id": "com.mikebeas.updatekit",
+    "version": "5.0.1",
+    "maintainer": {
+      "name": "Mike Beasly",
+      "link": "https://www.mikebeas.com/"
+    },
+    "depends": ["com.mikebeas.updatekit"],
+    "description": "UpdateKit is a complete update delivery system for iOS Shortcuts.",
+    "name": "UpdateKit",
+    "author": {
+      "name": "Mike Beasly",
+      "link": "https://www.mikebeas.com/"
+    },
+    "depiction": "https://papercuts-repo.glitch.me/depiction/updatekit.html",
+    "arch": "ios12",
+    "link": "https://www.icloud.com/shortcuts/0d78a4b7ffee4bafafdc1fbec4e873a1"
   }
 ]
