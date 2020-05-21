@@ -2,21 +2,33 @@
   {
     "id": "com.example.shortcut",
     "version": "1.0.0",
-    "maintainer": "easrng <easrng@gmail.com>",
+    "maintainer": {
+      "name": "easrng",
+      "link": "mailto:easrng@gmail.com"
+    },
     "depends": ["com.mikebeas.updatekit"],
     "description": "This is a sample shortcut.",
     "name": "Old Package",
-    "author": "easrng <easrng@gmail.com>",
+    "author": {
+      "name": "easrng",
+      "link": "mailto:easrng@gmail.com"
+    },
     "depiction": "https://example.com"
   },
   {
     "id": "com.mikebeas.updatekit",
     "version": "1.0.0",
-    "maintainer": "MikeBeas <easrng@gmail.com>",
+    "maintainer": {
+      "name": "Mike Beasly",
+      "link": "https://www.mikebeas.com/"
+    },
     "depends": ["com.mikebeas.updatekit"],
     "description": "This is a sample shortcut.",
     "name": "Old Package",
-    "author": "easrng <easrng@gmail.com>",
-    "depiction": "https://example.com"
+    "author": {
+      "name": "Mike Beasly",
+      "link": "https://www.mikebeas.com/"
+    },
+    "depiction": ""
   }
 ]
