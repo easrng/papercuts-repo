@@ -17,7 +17,7 @@
     "arch": "ios13",
     "link": "https://www.icloud.com/shortcuts/93ad50713a954a1197dda7f886f853d6",
     "icon": "https://cdn.glitch.com/5fbc1795-66c8-4644-a8fd-560dad954b67%2Fuk.png?v=159008959",
-    "catagory":"utilites"
+    "category":"utilites"
   },
   {
     "id": "com.mikebeas.updatekit",
@@ -37,7 +37,7 @@
     "arch": "ios12",
     "link": "https://www.icloud.com/shortcuts/0d78a4b7ffee4bafafdc1fbec4e873a1",
     "icon": "https://cdn.glitch.com/5fbc1795-66c8-4644-a8fd-560dad954b67%2Fuk.png?v=1590089590726",
-    "catagory":"utilites"
+    "category":"utilites"
   },
   {
     "id": "io.github.easrng.adkit",
@@ -52,7 +52,7 @@
     "arch": "universal",
     "link": "https://routinehub.co/download/17225",
     "icon": "https://cdn.glitch.com/5fbc1795-66c8-4644-a8fd-560dad954b67%2F5a51799aafbb4fbbb138bcbdef03652b_ffg9CTM.png?v=1590106819895",
-    "catagory":"utilites"
+    "category":"utilites"
   },
   {
     "id": "io.github.zachary7829.adkit-demo",
@@ -68,6 +68,6 @@
     "arch": "ios13",
     "link": "https://routinehub.co/download/17252",
     "icon": "https://cdn.glitch.com/5fbc1795-66c8-4644-a8fd-560dad954b67%2Fccd983682a4c4f04b033aa5c6a35aac7.png?v=1590107173677",
-    "catagory":"utilites"
+    "category":"utilites"
   }
 ]
